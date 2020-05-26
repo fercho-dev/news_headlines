@@ -1,0 +1,60 @@
+news_sites:
+  elpais:
+    url: https://elpais.com/america/
+    queries:
+      #home_page_sections: '.section-bar a'
+      home_page:
+        url: https://elpais.com/america/
+      internacional:
+        url: https://elpais.com/internacional/
+      sociedad:
+        url: https://elpais.com/america/sociedad/
+      economia:
+        url: https://elpais.com/america/economia/
+      ciencia:
+        url: https://elpais.com/ciencia/
+      tecnologia:
+        url: https://elpais.com/tecnologia/
+      cultura:
+        url: https://elpais.com/cultura/
+  eluniversal:
+    url: https://www.eluniversal.com.mx/
+    queries:
+      home_page:
+        url: https://www.eluniversal.com.mx/
+      nacion:
+        url: https://www.eluniversal.com.mx/nacion
+      metropoli:
+        url: https://www.eluniversal.com.mx/metropoli
+      mundo:
+        url: https://www.eluniversal.com.mx/mundo
+      estados:
+        url: https://www.eluniversal.com.mx/estados
+      cartera:
+        url: https://www.eluniversal.com.mx/cartera
+      cultura:
+        url: https://www.eluniversal.com.mx/cultura
+      ciencia_y_salud:
+        url: https://www.eluniversal.com.mx/ciencia-y-salud
+          
+#news_sites:
+  #elpais:
+    #queries:
+      #internacional:
+        #url: https://elpais.com/internacional/
+        #headlines: '.flex_grid background_white .headline'
+      #sociedad:
+        #url: https://elpais.com/america/sociedad/
+        #headlines: '.flex_grid background_white .headline'
+      #economia:
+        #url: https://elpais.com/america/economia/
+        #headlines: '.flex_grid background_white .headline'
+      #ciencia:
+        #url: https://elpais.com/ciencia/
+        #headlines: '.flex_grid background_white .headline'
+      #tecnologia:
+        #url: https://elpais.com/tecnologia/
+        #headlines: '.flex_grid background_white .headline'
+      #cultura:
+        #url: https://elpais.com/cultura/
+        #headlines: '.flex_grid background_white .headline'
