@@ -1,0 +1,7 @@
+numpy
+pandas
+PyYAML
+requests
+beautifulsoup4
+SQLAlchemy
+psycopg2
