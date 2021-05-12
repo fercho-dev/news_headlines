@@ -8,10 +8,10 @@ logger = logging.getLogger(__name__)
 
 def connect_to_db():
     ## connect to the db
-    host = "localhost"
-    db = "news_headlines"
-    user = "postgres"
-    pw = "123"
+    host = ""
+    db = ""
+    user = ""
+    pw = ""
 
     conn = psycopg2.connect(
         host = host,
